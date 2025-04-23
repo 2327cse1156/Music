@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "slug": "intro-to-music-theory",
+        "description": "Learn the fundamentals of music theory, including scales, intervals, and basic harmony.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://via.placeholder.com/150?text=Intro+to+Music+Theory"
+      },
+      {
+        "id": 2,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Explore advanced techniques for guitar players, including fingerstyle, tapping, and improvisation.",
+        "price": 149.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://via.placeholder.com/150?text=Advanced+Guitar+Techniques"
+      },
+      {
+        "id": 3,
+        "title": "Music Production Basics",
+        "slug": "music-production-basics",
+        "description": "Get started with music production, covering the basics of DAWs, recording, and mixing.",
+        "price": 120.00,
+        "instructor": "Chris Brown",
+        "isFeatured": true,
+        "image": "https://via.placeholder.com/150?text=Music+Production+Basics"
+      },
+      {
+        "id": 4,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Master the art of improvising jazz solos and understanding jazz harmony.",
+        "price": 180.00,
+        "instructor": "Emily Green",
+        "isFeatured": false,
+        "image": "https://via.placeholder.com/150?text=Jazz+Improvisation"
+      },
+      {
+        "id": 5,
+        "title": "Music Composition for Film",
+        "slug": "music-composition-for-film",
+        "description": "Learn to compose music for film, focusing on emotion-driven orchestration and sound design.",
+        "price": 250.00,
+        "instructor": "David Lee",
+        "isFeatured": true,
+        "image": "https://via.placeholder.com/150?text=Music+Composition+for+Film"
+      },
+      {
+        "id": 6,
+        "title": "Music Production with Ableton Live",
+        "slug": "music-production-with-ableton-live",
+        "description": "An in-depth course teaching music production techniques using Ableton Live software.",
+        "price": 199.99,
+        "instructor": "Sarah White",
+        "isFeatured": false,
+        "image": "https://via.placeholder.com/150?text=Music+Production+with+Ableton+Live"
+      }
+    ]
+  }
+  
